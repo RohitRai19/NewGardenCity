@@ -1,0 +1,79 @@
+@media screen and (max-width: 1025px) {
+    nav {
+        background-color: #000000;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .grade .gradencity .graden_box {
+        flex: 0 0 100%;
+    }
+
+    .grade .gradencity .graden_box .graden_box_1 {
+        border-right: none;
+        border-bottom: 1px solid #ffffff;
+    }
+
+    .dlf_section .dlf_box .dlf_img_bx {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    nav {
+        background-color: #000000;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .grade .gradencity .graden_box {
+        flex: 0 0 100%;
+    }
+
+    .grade .gradencity .graden_box .graden_box_1 {
+        border-right: none;
+        border-bottom: 1px solid #ffffff;
+    }
+
+    .dlf_section .dlf_box .dlf_img_bx {
+        width: 100%;
+    }
+    .dlf-logo{
+        justify-content: center;
+
+    }
+
+
+}
+
+@media screen and (max-width: 350px) {
+    nav {
+        background-color: #000000;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .grade .gradencity .graden_box {
+        flex: 0 0 100%;
+    }
+
+    .grade .gradencity .graden_box .graden_box_1 {
+        border-right: none;
+        border-bottom: 1px solid #ffffff;
+    }
+
+    .dlf_section .dlf_box .dlf_img_bx {
+        width: 100%;
+    }
+    .dlf-logo{
+        justify-content: center;
+
+    }
+
+}
